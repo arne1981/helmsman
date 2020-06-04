@@ -1,7 +1,7 @@
 # Helmsman
 
 
-DIY Yacht autopilot computer
+DIY boat autopilot computer
 
 This autopilot computer is almost untested. Did some test trials in combination with an Autohelm 3000 wheel drive motor.
 
