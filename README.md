@@ -1,10 +1,9 @@
 # Helmsman
 
-<p>
-DIY Yacht autopilot computer</p>
-<p>
+
+DIY Yacht autopilot computer
+
 This autopilot computer is almost untested. Did some test trials in combination with an Autohelm 3000 wheel drive motor.
-</p>
 
 ## Parts
 * Arduino UNO rev 3<br/>
@@ -13,6 +12,6 @@ This autopilot computer is almost untested. Did some test trials in combination 
 * IBT-2 motor driver (BTS7960)<br/>
 * DC-DC 5V Step-down Buck Converter 1A (https://www.tinytronics.nl/shop/nl/spanning-converters/step-down/dc-dc-5v-step-down-buck-converter-1a)<br/>
 
-## External libraries used: 
+## External libraries used
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library<br/>
 https://github.com/deepdatago/Arduino-PID-SGD<br/>
