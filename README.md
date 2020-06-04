@@ -1,2 +1,2 @@
-# helmsman
+# Helmsman
 DIY Yacht autopilot
